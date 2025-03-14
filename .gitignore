@@ -1,3 +1,4 @@
+.env
 *.png
 
 notebooks/training_data/
